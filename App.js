@@ -56,7 +56,7 @@ class InformationScreen extends Component {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
         <Text style={{ fontSize: 16, textAlign: 'center', margin: 10 }}>
-          GUINEE-INNOVATIONS regroupe toutes les informations sur les innovations Guinéennes.</Text>
+          GUINEE-dkdjldkjsd regroupe toutes les informations sur les innovations Guinéennes.</Text>
         <Text style={{ fontSize: 16, textAlign: 'center', marginTop: 10 }}>
           Contact:</Text>
         <Text style={{ fontSize: 16, textAlign: 'center', marginTop: 10 }}>
